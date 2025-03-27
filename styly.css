@@ -41,7 +41,7 @@ p{
     align-items: center;
     gap: 10px;
     padding: 10px;
-    background-color: gray; 
+    background-color: red; 
     margin-top: 20px;
     flex-wrap: wrap;
     border-radius: 8px;
